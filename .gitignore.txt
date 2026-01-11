@@ -1,0 +1,12 @@
+# Build folders
+Debug/
+Release/
+
+# Toolchain/IDE specific
+.settings/
+.metadata/
+*.launch
+*.swd
+
+# User-specific files
+*.user
