@@ -90,7 +90,7 @@ typedef struct{
 
 
 /* Type cast for GPIO register*/
-#define GPIO					((RCC_RegDef_t *) RCC_BASEADDR)
+#define RCC					((RCC_RegDef_t *) RCC_BASEADDR)
 /*RCC Register definition structure*/
 
 typedef struct{
